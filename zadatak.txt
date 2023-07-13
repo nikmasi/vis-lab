@@ -1,0 +1,8 @@
+Kutija sadrži 3 bele i 7 crnih kuglica. Izvlače se dve kuglice bez 
+vraćanja. Napisati program za simulaciju izvlačenja dve kuglice bez 
+vraćanja sa mogućnošću ponavljanja simulacije n puta, gde n zadaje 
+korisnik. Neka je A događaj da je druga izvučena kuglica bela. Program
+registruje da li se dogodio događaj A (X=1) ili nije (X=0). Za broj n 
+(n zadaje korisnik) ponavljanja eksperimenta, program treba da prikaže 
+i relativnu frekvenciju događaja A kao Pn=(X1+...+Xn)/n. Uporediti 
+rezultate simulacije sa izračunatom verovatnoćom događaja A.
